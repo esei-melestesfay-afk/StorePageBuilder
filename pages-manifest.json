@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Köpvillkor",
+    "kind": "markdown",
+    "file": "pages/kopvillkor.md"
+  },
+  {
+    "name": "Om oss",
+    "kind": "markdown",
+    "file": "pages/om-oss.md"
+  },
+  {
+    "name": "Returer & återbetalningar",
+    "kind": "markdown",
+    "file": "pages/returer.md"
+  },
+  {
+    "name": "Vanliga frågor",
+    "kind": "markdown",
+    "file": "pages/faq.md"
+  },
+  {
+    "name": "Leveransvillkor",
+    "kind": "markdown",
+    "file": "pages/leverans.md"
+  },
+  {
+    "name": "Integritetspolicy",
+    "kind": "markdown",
+    "file": "pages/integritet.md"
+  },
+  {
+    "name": "Spåra din order",
+    "kind": "html-source",
+    "file": "pages/spara-order.html"
+  }
+]
