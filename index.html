@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Store Page Builder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="top">
+      <div class="brandline">STORE PAGE BUILDER</div>
+      <h1>Shopify-sidor, klart direkt.</h1>
+      <p>Fyll i tre saker. Välj sida. Kopiera.</p>
+    </header>
+
+    <section class="setup" aria-label="Butiksuppgifter">
+      <label>
+        <span>Brand</span>
+        <input id="brandInput" placeholder="Ivora" autocomplete="off">
+      </label>
+      <label>
+        <span>Supportmail</span>
+        <input id="emailInput" placeholder="kundservice.ivora@gmail.com" autocomplete="off">
+      </label>
+      <label>
+        <span>Produkt</span>
+        <input id="productInput" placeholder="Ivora™ ..." autocomplete="off">
+      </label>
+    </section>
+
+    <div class="fixed-info">6–10 arbetsdagar · Långgatan 25 F, Sollefteå</div>
+
+    <nav id="pageNav" class="tabs" aria-label="Shopify-sidor"></nav>
+
+    <section class="card">
+      <div class="card-head">
+        <div>
+          <div id="pageKind" class="kicker">SHOPIFY-SIDA</div>
+          <h2 id="pageTitle">Köpvillkor</h2>
+        </div>
+        <button id="copyBtn" class="copy" type="button">Kopiera</button>
+      </div>
+
+      <div id="message" class="message">Fyll i Brand, Supportmail och Produkt.</div>
+
+      <div id="preview" class="preview"></div>
+      <textarea id="sourceBox" class="source" spellcheck="false" aria-label="HTML-kod"></textarea>
+    </section>
+  </main>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>
