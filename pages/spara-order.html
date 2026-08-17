@@ -1,0 +1,59 @@
+<p><span>Vill du spåra din order? När din order skickas iväg kommer du att få ett bekräftelsmail att varan fraktats</span><span> med ditt spårningsnummer inkluderat. När du har fått mailet, ange ditt spårningsnummer nedan för att enkelt kunna kontrollera leveransstatus.</span></p>
+
+<!--Tracking number input box.-->
+
+<p><input type="text" id="YQNum" maxlength="50"></p>
+
+<!--The button is used to call script method.-->
+
+<p><input type="button" value="SPÅRA" onclick="doTrack()"></p>
+
+<!--Container to display the tracking result.-->
+
+<div id="YQContainer"></div>
+
+<!--Script code can be put in the bottom of the page, wait until the page is loaded then execute.-->
+
+<p><script type="text/javascript" src="//www.17track.net/externalcall.js"></script> <script type="text/javascript">// <![CDATA[
+
+function doTrack() {
+
+var num = document.getElementById("YQNum").value;
+
+if(num===""){
+
+alert("Ange ditt spårningsnummer.");
+
+return;
+
+}
+
+YQV5.trackSingle({
+
+//Required, Specify the container ID of the carrier content.
+
+YQ_ContainerId:"YQContainer",
+
+//Optional, specify tracking result height, max height 800px, default is 560px.
+
+YQ_Height:560,
+
+//Optional, select carrier, default to auto identify.
+
+YQ_Fc:"0",
+
+//Required, specify the number needed to be tracked.
+
+YQ_Num:num
+
+});
+
+}
+
+// ]]></script></p>
+
+<h3>Saker att ha i åtanke:</h3>
+
+<p><span>Spårningsnumret uppdateras inte alltid omedelbart med leveransstatus. Om det spårningsnummer du har angett visar att det för närvarande inte är tillgängligt, behöver du inte bli orolig - Din beställning har skickats och är på väg till det lokala postkontoret. Spårningen bör uppdateras inom några arbetsdagar. Beroende på var varan skickas från kan det ta 6–10 arbetsdagar innan beställningen levereras.</span></p>
+
+<p><span>Om du ser några irrelevanta annonser på spårningspopupen ber vi verkligen om ursäkt. Vi använder en tredjeparts order-spårningstjänst för att säkerställa bästa möjliga spårningsresultat, så vi har ingen kontroll över vilka annonser som visas där. Tack för din förståelse.</span></p>
