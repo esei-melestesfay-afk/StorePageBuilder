@@ -1,16 +1,28 @@
 Set-Location $PSScriptRoot
 
-Write-Host "Uppdaterar Store Page Builder..." -ForegroundColor Cyan
+# Snabb kontroll: om servern redan körs, öppna sidan direkt.
+$alreadyRunning = $false
+$client = $null
 try {
-    git pull --ff-only | Out-Host
+    $client = New-Object System.Net.Sockets.TcpClient
+    $task = $client.ConnectAsync("127.0.0.1", 8765)
+    if ($task.Wait(180) -and $client.Connected) {
+        $alreadyRunning = $true
+    }
 } catch {
-    Write-Host "Kunde inte kontrollera GitHub just nu. Startar den lokala versionen." -ForegroundColor Yellow
+} finally {
+    if ($client) { $client.Dispose() }
 }
 
-$alreadyRunning = Test-NetConnection -ComputerName 127.0.0.1 -Port 8765 -InformationLevel Quiet -WarningAction SilentlyContinue
 if ($alreadyRunning) {
     Start-Process "http://127.0.0.1:8765"
     exit
+}
+
+# Hämta senaste versionen tyst. Om internet saknas startar den lokala versionen ändå.
+try {
+    git pull --ff-only --quiet 2>$null
+} catch {
 }
 
 py -3 .\server.py
