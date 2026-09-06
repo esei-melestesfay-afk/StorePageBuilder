@@ -12,7 +12,7 @@ Det är därför viktigt att du kontrollerar dina leveransuppgifter noggrant fö
 
 ## Behandlings- och leveranstid
 
-Beställningar behandlas så snart som möjligt. Vår beräknade leveranstid är normalt 6–10 arbetsdagar. Detta är en ungefärlig leveranstid och vi kan inte garantera ett specifikt leveransdatum.
+Beställningar behandlas så snart som möjligt. Vår beräknade leveranstid är normalt 5–12 arbetsdagar. Detta är en ungefärlig leveranstid och vi kan inte garantera ett specifikt leveransdatum.
 
 ## Spårning av beställningen
 
