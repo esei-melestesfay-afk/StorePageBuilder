@@ -12,7 +12,7 @@ När du slutfört din beställning skickas en orderbekräftelse till din e-posta
 
 ## 3. Leverans
 
-Våra normala leveranstider är 6–10 arbetsdagar. OBS! Beställningar lagda på helger skickas tidigast på måndagen efter.
+Våra normala leveranstider är 5–12 arbetsdagar. OBS! Beställningar lagda på helger skickas tidigast på måndagen efter.
 
 På grund av hög belastning hos postleverantör kan det hända att förseningar uppkommer. Vi ber er därför att ha överseende för detta då det inte är något vi kan påverka.
 
