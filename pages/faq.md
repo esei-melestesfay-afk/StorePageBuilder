@@ -4,7 +4,7 @@
 
 ### Hur lång tid tar leveransen?
 
-Vår leveranstid är normalt 6–10 arbetsdagar från att beställningen har behandlats. Vid hög belastning hos transportbolag kan mindre förseningar förekomma.
+Vår leveranstid är normalt 5–12 arbetsdagar från att beställningen har behandlats. Vid hög belastning hos transportbolag kan mindre förseningar förekomma.
 
 ### Vilket fraktbolag använder ni?
 
