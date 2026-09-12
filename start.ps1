@@ -1,6 +1,15 @@
 Set-Location $PSScriptRoot
 
-# Snabb kontroll: om servern redan körs, öppna sidan direkt.
+# Hämta alltid senaste versionen från GitHub först.
+# Om internet saknas fortsätter den lokala versionen att fungera.
+try {
+    git pull --ff-only --quiet 2>$null
+} catch {
+}
+
+# Om servern redan körs räcker det att öppna sidan igen.
+# Statiska filer läses direkt från mappen, så en uppdaterad app.js/index.html
+# blir tillgänglig efter en vanlig Ctrl+F5 i webbläsaren.
 $alreadyRunning = $false
 $client = $null
 try {
@@ -17,12 +26,6 @@ try {
 if ($alreadyRunning) {
     Start-Process "http://127.0.0.1:8765"
     exit
-}
-
-# Hämta senaste versionen tyst. Om internet saknas startar den lokala versionen ändå.
-try {
-    git pull --ff-only --quiet 2>$null
-} catch {
 }
 
 py -3 .\server.py
