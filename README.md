@@ -10,7 +10,7 @@ Ett enkelt lokalt verktyg för att snabbt skapa färdiga Shopify-sidor.
 4. Klistra in i Shopify.
 
 Fasta uppgifter i mallarna:
-- Leverans: **6–10 arbetsdagar**
+- Leverans: **5–12 arbetsdagar**
 - Adress: **Långgatan 25 F, Sollefteå**
 
 ## Starta på Windows
@@ -20,6 +20,6 @@ cd "$HOME\Desktop\StorePageBuilder"
 py -3 server.py
 ```
 
-Du kan också köra `start.ps1` från PowerShell.
+Du kan också köra `start.ps1` från PowerShell. `start.ps1` hämtar senaste versionen från GitHub innan appen startas.
 
 Appen använder ingen AI och inga API-nycklar. Allt körs lokalt.
