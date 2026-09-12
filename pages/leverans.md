@@ -1,47 +1,29 @@
-## Separata leveranser
+## Leveranstid
 
-Av logistiska skäl kan vissa artiklar i samma beställning skickas separat. Det innebär att du kan få dina produkter i flera paket.
+Vår normala leveranstid är 5–12 arbetsdagar. Tiden är en uppskattning och kan påverkas av exempelvis helgdagar, hög belastning hos transportörer, väder eller andra omständigheter utanför vår kontroll.
 
-För att säkerställa en korrekt och snabb leverans ber vi dig att dubbelkolla att din leveransadress är korrekt när du genomför din beställning.
+## Leveransadress
 
-## Felaktig leveransadress
+Kontrollera att namn och leveransadress är korrekta innan du slutför beställningen. Om du upptäcker ett fel efter köpet ska du kontakta oss så snart som möjligt på {{EMAIL}}.
 
-Observera att vi inte ansvarar för förlorade paket som beror på en ofullständig eller felaktig adress som angetts av kunden.
+Vi kan inte garantera att en adress går att ändra efter att beställningen har börjat behandlas.
 
-Det är därför viktigt att du kontrollerar dina leveransuppgifter noggrant för att undvika leveransproblem.
+## Frakt och logistik
 
-## Behandlings- och leveranstid
+Vi använder olika frakt- och logistikpartners beroende på försändelsen. En beställning kan i vissa fall delas upp i flera paket.
 
-Beställningar behandlas så snart som möjligt. Vår beräknade leveranstid är normalt 5–12 arbetsdagar. Detta är en ungefärlig leveranstid och vi kan inte garantera ett specifikt leveransdatum.
+När spårningsinformation finns tillgänglig skickas den till den e-postadress du angav vid köpet.
 
-## Spårning av beställningen
+## Spårning
 
-När din beställning har behandlats skapar vi ett spårningsnummer och skickar det till dig via e-post tillsammans med leveransbekräftelsen.
+Det kan ta några arbetsdagar innan ett nytt spårningsnummer börjar visa händelser i transportörens system.
 
-Om du inte har fått ditt spårningsnummer inom 5 arbetsdagar ber vi dig att kontakta oss via e-post och ange ditt ordernummer:
+Om du har fått ett spårningsnummer kan du använda sidan **Spåra din order** i butiken. Om spårningen inte uppdateras under en längre tid är du välkommen att kontakta oss på {{EMAIL}}.
 
-{{EMAIL}}
+## Förseningar
 
-## Eventuella förseningar
+Oförutsedda händelser kan orsaka förseningar. Om din beställning blir väsentligt försenad hjälper vi dig utifrån gällande konsumentregler och omständigheterna i det enskilda fallet.
 
-Vi strävar efter att leverera dina beställningar så snabbt som möjligt. Oförutsedda omständigheter kan dock leda till förseningar.
+Har du frågor om en leverans är du välkommen att kontakta oss på:
 
-Det kan exempelvis handla om:
-
-- Helgdagar
-- Hög belastning hos transportbolag
-- Väderförhållanden
-- Strejker
-- Andra händelser som ligger utanför vår kontroll
-
-## Leveranser som överstiger 45 arbetsdagar
-
-Om din leverans skulle överskrida 45 arbetsdagar erbjuder vi full återbetalning för att säkerställa att du som kund känner dig trygg.
-
-Vi på {{BRAND}} gör alltid vårt bästa för att din beställning ska levereras smidigt och så snabbt som möjligt.
-
-## Kontakta oss
-
-Har du frågor eller funderingar angående vår leveransprocess är du välkommen att kontakta oss via:
-
-{{EMAIL}}
+**{{EMAIL}}**
