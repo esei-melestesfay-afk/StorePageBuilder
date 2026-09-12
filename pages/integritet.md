@@ -1,111 +1,88 @@
-Denna integritetspolicy beskriver hur din personliga information samlas in, används och delas när du besöker eller gör ett köp från webbplatsen för {{BRAND}}.
+# Integritetspolicy
 
-PERSONLIG INFORMATION VI SAMLAR IN
+Den här integritetspolicyn beskriver hur {{BRAND}} behandlar personuppgifter när du besöker vår webbshop, kontaktar oss eller gör en beställning.
 
-När du besöker webbplatsen samlar vi automatiskt in viss information om din enhet, inklusive information om din webbläsare, IP-adress, tidszon och några cookies som är installerade på din enhet.
+## Vilka uppgifter vi kan behandla
 
-När du surfar på webbplatsen samlar vi dessutom information om de enskilda webbsidorna eller produkterna som du ser, vilka webbplatser eller söktermer som hänvisade dig till webbplatsen och information om hur du interagerar med webbplatsen.
+När du gör en beställning kan vi behandla uppgifter som namn, leveransadress, faktureringsadress, e-postadress, telefonnummer, orderuppgifter och betalningsrelaterad information som behövs för att genomföra köpet.
 
-Vi hänvisar till den automatiskt samlade informationen som ”Enhetsinformation”.
+När du använder webbplatsen kan teknisk information behandlas, till exempel IP-adress, enhet, webbläsare, cookieuppgifter och information om hur webbplatsen används.
 
-Vi samlar in enhetsinformation med följande tekniker:
+Om du kontaktar kundservice behandlar vi de uppgifter du lämnar i ditt meddelande för att kunna hjälpa dig.
 
-• ”Cookies” är datafiler som placeras på din enhet eller dator och innehåller ofta en anonym unik identifierare. För mer information om cookies och hur du inaktiverar cookies, besök:
-[http://www.allaboutcookies.org](http://www.allaboutcookies.org/)
+## Varför vi behandlar uppgifterna
 
-• ”Loggfiler” spårar handlingar som inträffar på webbplatsen och samlar in data inklusive din IP-adress, webbläsartyp, internetleverantör, referens- och utgångssidor samt datum- och tidsstämplar.
+Vi behandlar personuppgifter för att:
 
-• ”Webbvärden”, ”taggar” och ”pixlar” är elektroniska filer som används för att spela in information om hur du surfar på webbplatsen.
+- ta emot och hantera beställningar
+- genomföra betalningar
+- ordna och följa leveranser
+- skicka order- och leveransinformation
+- hantera returer, reklamationer och kundservice
+- förebygga bedrägerier och missbruk
+- uppfylla rättsliga skyldigheter
+- förbättra webbshoppen
+- skicka marknadsföring när det finns rättslig grund för det
 
-När du gör ett köp eller försöker göra ett köp via webbplatsen samlar vi in viss information från dig, inklusive ditt namn, faktureringsadress, leveransadress, betalningsinformation, e-postadress och telefonnummer.
+Behandlingen sker beroende på situationen för att fullgöra avtalet med dig, uppfylla rättsliga skyldigheter, med stöd av berättigat intresse eller med ditt samtycke när samtycke krävs.
 
-Vi hänvisar till denna information som ”Orderinformation”.
+## Vilka vi kan dela uppgifter med
 
-När vi talar om ”personlig information” i denna integritetspolicy talar vi både om enhetsinformation och orderinformation.
+Vi delar bara personuppgifter när det behövs för att driva webbshoppen eller uppfylla våra skyldigheter.
 
-HUR ANVÄNDER VI DIN PERSONLIGA INFORMATION?
+Det kan exempelvis vara:
 
-Vi använder beställningsinformationen som vi samlar in i allmänhet för att uppfylla alla beställningar som placerats via webbplatsen, inklusive bearbetning av din betalningsinformation, hantering av frakt och för att förse dig med fakturor och/eller orderbekräftelser.
+- **Shopify**, som driver vår webbshop
+- betalningsleverantörer som du väljer i kassan
+- frakt- och logistikpartners som behöver uppgifter för att leverera beställningen
+- leverantörer av kundservice, e-post, analys eller marknadsföring när sådana tjänster används
+- myndigheter när vi är skyldiga enligt lag att lämna uppgifter
 
-Dessutom använder vi denna orderinformation för att:
+Vi säljer inte dina personuppgifter.
 
-• Kommunicera med dig.
-
-• Kontrollera våra beställningar för potentiell risk eller bedrägeri.
-
-• När du har samtyckt till det, ge dig information eller reklam rörande våra produkter eller tjänster.
-
-Vi använder enhetsinformationen som vi samlar in för att hjälpa oss att kontrollera potentiella risker och bedrägerier, särskilt din IP-adress, och mer generellt för att förbättra och optimera vår webbplats.
-
-Det kan exempelvis handla om analyser av hur våra kunder bläddrar och interagerar med webbplatsen samt för att bedöma resultatet av våra marknadsförings- och reklamkampanjer.
-
-DELA DIN PERSONLIGA INFORMATION
-
-Vi delar din personliga information med tredje parter för att hjälpa oss att använda din personliga information enligt ovan.
-
-Till exempel använder vi Shopify för att driva vår onlinebutik. Du kan läsa mer om hur Shopify använder din personliga information här:
-
+Du kan läsa mer om Shopifys behandling av personuppgifter här:
 [https://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy)
 
-Vi kan också använda Google Analytics för att hjälpa oss förstå hur våra kunder använder webbplatsen.
+## Cookies och liknande tekniker
 
-Du kan läsa mer om hur Google använder din personliga information här:
+Webbplatsen använder cookies och liknande tekniker som behövs för att webbshoppen ska fungera. Andra cookies, exempelvis för analys eller marknadsföring, används endast enligt de val och samtycken som gäller på webbplatsen.
 
-[https://www.google.com/intl/sv/policies/privacy/](https://www.google.com/intl/sv/policies/privacy/)
+Du kan ändra dina cookieval via webbplatsens cookie- eller integritetsinställningar när sådana val finns tillgängliga.
 
-Du kan också välja bort Google Analytics här:
+## Marknadsföring
 
-[https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout)
+Om du anmäler dig till marknadsföringsutskick kan vi använda dina kontaktuppgifter för sådana utskick enligt gällande regler. Du kan när som helst avsluta utskicken via avregistreringslänken i meddelandet eller genom att kontakta oss.
 
-Slutligen kan vi också dela din personliga information för att följa gällande lagar och förordningar, för att svara på en stämning, ett domstolsbeslut eller en annan laglig begäran om information som vi får, eller för att på annat sätt skydda våra rättigheter.
+Om vi använder annonserings- eller analystjänster kan viss information behandlas av dessa tjänster i enlighet med dina cookieval och deras respektive integritetspolicyer.
 
-BETEENDEBASERAD REKLAM
+## Överföring utanför EU/EES
 
-Som beskrivits ovan använder vi din personliga information för att ge dig riktade annonser eller marknadskommunikation som vi tror kan vara av intresse för dig.
+Vissa av våra tjänsteleverantörer kan behandla uppgifter utanför EU/EES. När det sker ska leverantören använda ett lagligt skydd för överföringen enligt tillämpliga dataskyddsregler.
 
-För mer information om hur riktad annonsering fungerar kan du besöka nätverksannonseringsinitiativets, NAI\:s, utbildningssida:
+## Hur länge uppgifterna sparas
 
-[http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work](http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work)
+Vi sparar personuppgifter så länge de behövs för det ändamål de samlades in för och så länge vi behöver dem för att uppfylla avtal eller rättsliga skyldigheter, till exempel bokföringsregler.
 
-Du kan välja bort riktad annonsering genom att använda länken nedan:
+Uppgifter som inte längre behövs raderas eller anonymiseras när det är möjligt och tillåtet enligt lag.
 
-Facebook:
-[https://www.facebook.com/settings/?tab=ads](https://www.facebook.com/settings/?tab=ads)
+## Dina rättigheter
 
-Dessutom kan du välja bort några av dessa tjänster genom att besöka Digital Advertising Alliances opt-out-portal:
+Du har enligt dataskyddsreglerna rätt att i tillämpliga fall begära:
 
-[http://optout.aboutads.info/](http://optout.aboutads.info/)
+- information om vilka personuppgifter vi behandlar om dig
+- rättelse av felaktiga uppgifter
+- radering av uppgifter
+- begränsning av behandling
+- dataportabilitet
+- att invända mot viss behandling
+- att återkalla ett samtycke
 
-SPÅRA INTE
+Vissa rättigheter kan vara begränsade när vi måste behålla uppgifter på grund av lag eller för att hantera ett avtal eller rättsligt anspråk.
 
-Observera att vi inte ändrar vår webbplats datainsamling och användningspraxis när vi ser en ”Spåra inte”-signal från din webbläsare.
+Du har också rätt att lämna klagomål till Integritetsskyddsmyndigheten, IMY.
 
-DINA RÄTTIGHETER
+## Kontakta oss
 
-Om du är bosatt i Europa har du rätt att få tillgång till den personliga information som vi har om dig och att begära att din personliga information korrigeras, uppdateras eller tas bort.
+Om du har frågor om integritet eller vill använda någon av dina rättigheter kan du kontakta oss på:
 
-Om du vill utöva denna rättighet, vänligen kontakta oss via kontaktinformationen nedan.
-
-Dessutom, om du är bosatt i Europa, behandlar vi din information för att uppfylla avtal vi kan ha med dig, till exempel om du gör en beställning via webbplatsen, eller på annat sätt för att följa våra legitima affärsintressen som listas ovan.
-
-Observera dessutom att din information kan överföras utanför Europa, inklusive till Kanada och USA.
-
-DATALAGRING
-
-När du gör en beställning via webbplatsen kommer vi att behålla din orderinformation för våra register om inte och tills du ber oss ta bort denna information.
-
-Undantag gäller för information som vi enligt lag behöver spara, exempelvis enligt bokföringsregler.
-
-ÄNDRINGAR
-
-Vi kan uppdatera denna integritetspolicy då och då för att återspegla förändringar i vår praxis eller av andra operativa, juridiska eller reglerande skäl.
-
-ÅLDERSGRÄNS
-
-Webbplatsen är inte avsedd för personer under 18 år.
-
-KONTAKTA OSS
-
-För mer information om vår integritetspraxis, om du har frågor eller om du vill lämna ett klagomål, vänligen kontakta oss via e-post:
-
-{{EMAIL}}
+**{{EMAIL}}**
