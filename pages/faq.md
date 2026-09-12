@@ -8,7 +8,7 @@ Vår leveranstid är normalt 5–12 arbetsdagar från att beställningen har beh
 
 ### Vilket fraktbolag använder ni?
 
-Vi använder främst PostNord för leveranser inom Sverige.
+Vi använder olika frakt- och logistikpartners beroende på försändelsen. När spårning finns tillgänglig skickas den till din e-postadress.
 
 ## Produkt
 
@@ -26,7 +26,7 @@ Du hittar den viktigaste informationen på produktsidan och i de anvisningar som
 
 ### Produkten är slut i lager – när kommer den tillbaka?
 
-Vi försöker alltid hålla {{PRODUCT}} i lager, men ibland kan efterfrågan vara hög. Kontakta oss på {{EMAIL}} för mer information.
+Vi försöker alltid hålla {{PRODUCT}} tillgänglig, men ibland kan efterfrågan vara hög. Kontakta oss på {{EMAIL}} för mer information.
 
 ## Övrigt
 
